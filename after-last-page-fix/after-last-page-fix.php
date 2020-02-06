@@ -8,7 +8,7 @@ Description: Remove JS and CSS types.
 Корректировка url с цифрами на конце. 
 Строчные url. 
 Для подключения (отключения) функций смотри код плагина.
-Author: Nikita Makuha
+Author: Web Focus
 Version: 1.0 
 */
 
